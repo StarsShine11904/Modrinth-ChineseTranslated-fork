@@ -86,8 +86,7 @@
       "和一些最受歡迎的啟動器(如 ATLauncher、MultiMC 和 Prism Launcher)使用 Modrinth。",
     "For Creators": "創作者專區",
     "Share your content with the world": "與世界分享你的內容",
-    "Give an online home to your creations and reach a massive audience of dedicated players":
-      "為你創作的內容提供在線家園，並觸及大量忠實玩家",
+    "Give an online home to your creations and reach a massive audience of dedicated players": "為你創作的內容提供線上家園，並觸及大量忠實玩家",
     Discovery: "發現",
     "Get your project discovered by thousands of users through search, our home page, Discord server, and more ways to come in the future!":
       "透過搜尋、我們的首頁、Discord 伺服器以及未來更多方式，讓你的項目被成千上萬的使用者發現！",
@@ -106,6 +105,8 @@
     "Constantly Evolving": "不斷進化",
     "Get the best modding experience possible with constant updates from the Modrinth team":
       "透過 Modrinth 團隊的持續更新，獲得最佳的模組製作體驗",
+    "Latest news from Modrinth": "來自更多Modrinth的新聞"
+    "View all news": "查看更多新聞"
     "Read more about": "了解更多關於",
     "Visit the blog": "存取部落格",
     "Modrinth is": "Modrinth 是 ",
