@@ -77,7 +77,7 @@
     "Get notified every time your favorite projects update and stay in the loop":
       "每次你追蹤的項目更新時都會收到通知，不錯過任何動態",
     "Give an online home to your creations and reach a massive audience of dedicated players":
-      "為你創作的內容提供在線家園，並觸及大量忠實玩家",
+      "為你創作的內容提供線上家園，並觸及大量忠實玩家",
     "Play with your favorite launcher": "使用你喜愛的啟動器遊玩",
     "Modrinth's open-source API lets launchers add deep integration with Modrinth. You can use Modrinth through":
       "Modrinth 的開源 API 讓啟動器能夠深度集成 Modrinth。你可以透過",
@@ -86,7 +86,8 @@
       "和一些最受歡迎的啟動器(如 ATLauncher、MultiMC 和 Prism Launcher)使用 Modrinth。",
     "For Creators": "創作者專區",
     "Share your content with the world": "與世界分享你的內容",
-    "Give an online home to your creations and reach a massive audience of dedicated players": "為你創作的內容提供線上家園，並觸及大量忠實玩家",
+    "Give an online home to your creations and reach a massive audience of dedicated players": 
+      "為你創作的內容提供線上家園，並觸及大量忠實玩家",
     Discovery: "發現",
     "Get your project discovered by thousands of users through search, our home page, Discord server, and more ways to come in the future!":
       "透過搜尋、我們的首頁、Discord 伺服器以及未來更多方式，讓你的項目被成千上萬的使用者發現！",
