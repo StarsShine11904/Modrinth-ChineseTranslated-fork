@@ -108,7 +108,7 @@
       "透過 Modrinth 團隊的持續更新，獲得最佳的模組製作體驗",
     "Read more about": "了解更多關於",
     "Visit the blog": "存取部落格",
-    "Modrinth is ": "Modrinth 是 ",
+    "Modrinth is": "Modrinth 是 ",
     "open source": "開源的",
     ".": "。",
     Company: "公司",
