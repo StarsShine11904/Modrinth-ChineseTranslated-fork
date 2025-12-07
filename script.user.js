@@ -102,7 +102,7 @@
       "透過 Minotaur 與構建工具集成，實現在發布新版本時自動上傳",
     "Data and Statistics": "資料和統計",
     "Get detailed reports on page views, download counts, and revenue":
-      "獲取詳細的頁面瀏覽量、下載次數和收入報告",
+      "取得詳細的頁面瀏覽量、下載次數和收入報告",
     "Constantly Evolving": "不斷進化",
     "Get the best modding experience possible with constant updates from the Modrinth team":
       "透過 Modrinth 團隊的持續更新，獲得最佳的模組製作體驗",
@@ -143,7 +143,7 @@
     "Security Notice": "安全聲明",
     Interact: "互動",
     "X (Twitter)": "X (推特)",
-    "Get Modrinth App": "獲取 Modrinth 應用",
+    "Get Modrinth App": "取得 Modrinth 應用",
     "Sign in": "登入",
     "Sign up": "註冊",
     "Sign in with": "使用以下方式登入",
@@ -608,7 +608,7 @@
     "Add or remove sign-on methods from your account, including GitHub, GitLab, Microsoft, Discord, Steam, and Google.":
       "從您的帳戶中添加或刪除登入方法，包括 GitHub、GitLab、Microsoft、Discord、Steam 和 Google。",
     "Request a copy of all your personal data you have uploaded to Modrinth. This may take several minutes to complete.":
-      "請求獲取您已上傳至 Modrinth 的所有個人資料的副本。這可能需要幾分鐘才能完成。",
+      "請求取得您已上傳至 Modrinth 的所有個人資料的副本。這可能需要幾分鐘才能完成。",
     "Once you delete your account, there is no going back. Deleting your account will remove all attached data, excluding projects, from our servers.":
       "帳戶一旦刪除，將無法恢復。刪除帳戶將從我們的伺服器中刪除所有附加資料（項目除外）。",
     "Authorized apps": "授權應用",
