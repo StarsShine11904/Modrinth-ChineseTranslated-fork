@@ -611,7 +611,7 @@
       "請求取得您已上傳至 Modrinth 的所有個人資料的副本。這可能需要幾分鐘才能完成。",
     "Once you delete your account, there is no going back. Deleting your account will remove all attached data, excluding projects, from our servers.":
       "帳戶一旦刪除，將無法恢復。刪除帳戶將從我們的伺服器中刪除所有附加資料（項目除外）。",
-    "Authorized apps": "授權應用程式程式程式",
+    "Authorized apps": "授權應用程式",
     "You have not authorized any applications.": "您尚未授權任何應用程式。",
     "When you authorize an application with your Modrinth account, you grant it access to your account. You can manage and review access to your account here at any time.":
       "當您使用 Modrinth 帳戶授權某個應用程式時，即表示您授予該應用程式存取您帳戶的權限。您可以隨時在此管理和查看您帳戶的存取權限。",
