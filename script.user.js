@@ -141,6 +141,7 @@
     "Content Rules": "內容規則",
     "Terms of Use": "使用條款",
     "Security Notice": "安全聲明",
+    "Copyright Policy and DMCA": "版權政策與數位千禧年著作權法案",
     Interact: "互動",
     "X (Twitter)": "X (推特)",
     "Get Modrinth App": "取得 Modrinth 應用程式",
