@@ -7,4 +7,7 @@
 2.手機可以透過AdGuard Android安裝腳本
 
 > [!NOTE]
+> 您現在可到[Greasyfork](https://greasyfork.org/zh-TW/scripts/558991-modrinth-traditional-chinese)下載本腳本
+
+> [!NOTE]
 > 本倉庫附刻自[Modrinth-ChineseTranslated](https://github.com/YlovexLN/Modrinth-ChineseTranslated)
