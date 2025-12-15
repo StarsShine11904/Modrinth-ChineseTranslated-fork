@@ -6,6 +6,7 @@
 // @author       StarsShine
 // @match        https://modrinth.com/*
 // @grant        none
+// @run-at       document-start
 // @icon         https://avatars.githubusercontent.com/u/67560307?s=48&v=4
 // @license      GPL-3.0
 // ==/UserScript==
